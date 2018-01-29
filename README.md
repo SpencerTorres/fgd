@@ -1,5 +1,5 @@
 # FGD
-An NPM package for manipulating FGD (Forge Game Data) files.
+An [NPM package](https://www.npmjs.com/package/fgd) for manipulating FGD (Forge Game Data) files.
 
 You can learn more about FGD files here:
 - [Anatomy of an FGD (and How to Write Your Own) - Valve Developer Union](https://valvedev.info/guide/eoZl)
