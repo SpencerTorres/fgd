@@ -1,8 +1,8 @@
 {
   "name": "fgd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An NPM package for manipulating FGD (Forge Game Data) files.",
-  "main": "/src",
+  "main": "src/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SpencerTorres/fgd.git"
