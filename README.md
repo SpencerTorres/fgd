@@ -1,5 +1,4 @@
 # FGD
----
 An NPM package for manipulating FGD (Forge Game Data) files.
 
 You can learn more about FGD files here:
